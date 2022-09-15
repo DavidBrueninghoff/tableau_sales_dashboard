@@ -1,1 +1,1 @@
-# power_bi_sales_dashboard
+# Sales Insights Dashboard (Tableau)
